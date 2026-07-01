@@ -5,7 +5,7 @@ A modern and responsive **Job Board Application** built using **React, Vite, Tai
 🔗 **GitHub Repository:**  
 https://github.com/RekhaChittaloori/job-board-ai
 
-> **Live Demo:** *(Add your Vercel URL here after deployment)*
+> **Live Demo:** *(https://job-board-ai-zeta.vercel.app)*
 
 ---
 
